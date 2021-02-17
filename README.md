@@ -1,5 +1,11 @@
 # Private Blockchain Application
 
+## After cloning the repository
+
+Make sure to execute the following command(before launching the application):
+
+> npm install
+
 ## How to test application functionality?
 
 To test the application I recommend you to use POSTMAN, this tool will help you to make the requests to the API.
